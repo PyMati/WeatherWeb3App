@@ -97,7 +97,7 @@ register_butt.addEventListener("click", registerUser)
 
 // Ethers config
 const provider = new ethers.providers.JsonRpcProvider("https://rpc-mumbai.maticvigil.com/")
-var private_key = "07265bb211e887adb7da587959f8f1508bd648e6f82b64aae85b8435b29f8976"
+var private_key = "Your private key"
 var signer = new ethers.Wallet(private_key, provider)
 var adress = "0x854E0B2731A97BA5Ee4cd6b045f87Bc41D149CDF"
 var abi = [{
