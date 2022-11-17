@@ -6,7 +6,7 @@ module.exports = {
   networks: {
     matic:{
       url: "https://rpc-mumbai.maticvigil.com/",
-      accounts: ["07265bb211e887adb7da587959f8f1508bd648e6f82b64aae85b8435b29f8976"]
+      accounts: ["Your wallet adress"]
     }
   }
 };
