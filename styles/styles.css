@@ -1,0 +1,13 @@
+body{
+    background-image: url("image.jpg");
+}
+
+.inputs_margin{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.margin-card{
+    margin-top: 2.5%;
+    margin-left: 30%;
+}
